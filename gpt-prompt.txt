@@ -1,0 +1,28 @@
+Given these questions:
+
+questions[1]: After spending time with a large group, do you feel energized or drained?
+questions[2]: Do you prefer spending free time alone or with others?
+questions[3]: If a friend calls you crying with a problem while you are frying chicken, and you can only choose one option, which would you pick?
+questions[4]: Do you prefer working in a team or independently?
+questions[5]: Do you usually start conversations with new people or wait for them to approach you?
+questions[6]: Are you more comfortable in one-on-one conversations or group discussions?
+questions[7]: Do you prefer using Mac or Windows?
+questions[8]: Do you enjoy math and science?
+questions[9]: Do you count calories when eating food or snacks?
+questions[10]: Do you like engineering?
+questions[11]: Do you prefer working with concrete facts or exploring ideas and concepts?
+questions[12]: Do you prefer structured, quantitative tasks or open-ended, interpretive ones?
+questions[13]: If you have an appointment with a friend and you're running late, what would you tell your friend?
+questions[14]: Do you like drinking coffee or not?
+questions[15]: Are you interested in how the physical world works?
+
+And these answer:
+
+      ['Energized', 'With Others',
+       'Tell your friend you’ll call back and continue frying the chicken',
+       'In a team', 'Wait for them to approach', 'Group discussions',
+       'Windows', 'No', 'No', 'Yes', 'Working with concrete facts',
+       'Structured, quantitative tasks',
+       'Tell the truth that you just woke up', 'No', 'Yes']
+
+Do you think this person is introvert or extrovert from the given data?
